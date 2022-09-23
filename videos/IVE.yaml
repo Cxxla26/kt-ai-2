@@ -1,4 +1,4 @@
-path: /content/yolov5/data/
+path: /content/drive/MyDrive/File/IVE
 train: images/train
 val: images/train
 
