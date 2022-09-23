@@ -1,4 +1,4 @@
-path: C:/Users/User/Desktop/Aivle School/시각지능 딥러닝/IVE
+path: /content/yolov5/data/
 train: images/train
 val: images/train
 
