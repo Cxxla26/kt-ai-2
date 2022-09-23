@@ -1,0 +1,7 @@
+path: /content/datasets/IVE #dataset root dir
+train: images/train # train images (relative to 'path') 217 images
+val: images/train # val images (relative to 'path') 217 images
+
+# Classes
+nc: 6
+names: ['yujin', 'gaeul', 'rei', 'wonyoung', 'liz', 'leeseo']
